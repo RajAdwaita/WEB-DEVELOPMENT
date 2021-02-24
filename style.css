@@ -1,0 +1,65 @@
+body
+{
+    background: rgba(200, 150, 230,0.5);
+    color: #02f
+}
+
+body > header > h2
+{
+    background: #fff;
+    color: #0f0;
+}
+
+
+h3
+{
+    color: #000;
+}
+
+body h3
+{
+    color: #f00;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap');
+
+
+
+body
+{
+    font-family: 'Roboto Condensed',sans-serif;
+    font-weight: 600 !important;
+    margin: 0px;
+
+}
+
+body h2
+{
+    font-weight:300;
+    margin: 20px;
+    margin-top: :  40px;
+    padding: 10px;
+
+}
+/* h2,h3
+{
+    display: inline;
+    height: 20px;
+    margin: 0px;
+    line-height: 20px;
+
+} */
+/* h2
+{
+    float: left;
+} */
+
+#main-header{
+    border: 1px dashed orange;
+    border-width: 2px;
+    border-color: red;
+
+
+}
